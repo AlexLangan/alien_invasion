@@ -4,7 +4,6 @@ RUN pip install pygame
 
 WORKDIR /app
 
-COPY alien_invasion.py .
+COPY . .
 
 CMD ["python", "alien_invasion.py"]
-
