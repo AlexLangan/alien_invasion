@@ -18,6 +18,8 @@ The player controls a ship, shoots bullets, and tries to destroy waves of aliens
 - Python 3.12+
 - [Pygame](https://www.pygame.org/)
 
-Install dependencies:
+Install dependencies and clone the project:
 ```bash
 pip install pygame
+git clone https://github.com/AlexLangan/alien_invasion.git
+cd alien_invasion
